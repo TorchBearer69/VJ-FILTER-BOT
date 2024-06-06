@@ -18,8 +18,8 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'TGFLIXBOT')
-API_ID = int(environ.get('API_ID', '22182189'))
-API_HASH = environ.get('API_HASH', '5e7c4088f8e23d0ab61e29ae11960bf5')
+API_ID = int(environ.get('API_ID', '26337689'))
+API_HASH = environ.get('API_HASH', '22cd104354b08dd79d0fb3082366c4b7')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # Bot settings
